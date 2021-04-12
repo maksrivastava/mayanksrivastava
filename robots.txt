@@ -1,0 +1,3 @@
+Sitemap: http://mohitsaxena.com/sitemap.xml
+User-agent:*
+Disallow: http://mohitsaxena.com/+12012732110
