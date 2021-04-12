@@ -1766,3 +1766,8 @@ section {
 .portfolio-thumbnail-title{
   text-align: center
 }
+@media screen and (min-width: 420px) {
+.skillrow {
+  padding-bottom: 3%;
+}
+}
