@@ -8,12 +8,13 @@ $(window).load(function() {
     });
     $('#slider-c').flexslider({
         animation: 'fade',
-        slideshow: false
+        slideshow: true,
+        animationLoop: true
     });
     $('#section-b .flexslider').flexslider({
         animation: 'slide',
-        slideshow: false,
-        animationLoop: false
+        slideshow: true,
+        animationLoop: true
     });
     
 
