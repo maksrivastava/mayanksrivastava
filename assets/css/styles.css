@@ -406,7 +406,7 @@ p.project-description {
     font-size: 4em;
   }
 }
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 420px) {
   /* line 101, ../../../src/assets/scss/partials/_type.scss */
   .xlarge,
   *.xlarge {
